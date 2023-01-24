@@ -9,4 +9,18 @@
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;>LINKEDIM</a>
+        
+        <button class="styled-button">Clique aqui</button>
+
+<style>
+.styled-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+</style>
 ![GALLERIA](https://user-images.githubusercontent.com/108904411/214179732-6b9464c7-9eda-4b14-8a4d-79949f3f9b39.PNG)
